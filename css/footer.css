@@ -1,0 +1,46 @@
+.section-12{
+	padding-top:80px;
+	padding-bottom:50px;
+	overflow:hidden;
+}
+
+.section-12 h1{
+	color: rgba(18, 29, 51,1);
+	font-size:17px;
+	
+	margin-left:14px;
+	font-weight:500;
+	margin-bottom:20px;
+}
+.section-12 h1 svg path{
+	fill: rgb(22, 82, 240);
+	}
+.section-12 .list-group li{
+	border:none;
+	line-height: 2rem;
+}
+
+.section-12 .list-group li a{
+	color:#113355;
+	font-size:15px;
+	color: rgba(18, 29, 51,0.8);
+    font-weight: 500;
+	text-decoration:none;
+	transition:all 0.3s ease;
+}
+.section-12 .list-group li a:hover{
+	color: rgba(18, 29, 51,0.6);
+}
+.section-10 p{
+	font-size:10.5px;
+	word-spacing:2px;
+	color:rgba(0,0,0,0.5);
+}
+
+
+
+
+
+
+
+
